@@ -13,7 +13,7 @@ A professional PyQt6-based application for managing AWS S3 buckets with CloudNes
 
 ## Recent Updates
 
-### Download Progress Improvements (2023-07-15)
+### Download Progress Improvements (13-06-2025)
 
 - Simplified download progress UI with a cleaner, more compact single progress bar per file
 - Fixed real-time progress reporting with more frequent updates
