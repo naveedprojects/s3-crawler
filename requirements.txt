@@ -1,0 +1,6 @@
+boto3==1.34.75
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+Pillow==10.3.0
+requests==2.31.0
+humanize==4.9.0 
