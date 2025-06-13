@@ -44,12 +44,6 @@ A professional PyQt6-based application for managing AWS S3 buckets with CloudNes
 python main.py
 ```
 
-Or use the provided shell script:
-
-```
-./run_s3_gui.sh
-```
-
 ## Credits
 
 CloudNest S3 Manager GUI 
